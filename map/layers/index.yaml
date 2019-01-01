@@ -1,10 +1,10 @@
 map:
-  radius: 3390000
-  width: 2500
-  height: 1251
+  radius: 6371000
+  width: 2754
+  height: 1397
   center: 
-    x: 1250
-    y: 635
+    x: 1397
+    y: 698
   loc:
     lat:
       from:  -90
@@ -14,34 +14,13 @@ map:
       to:    180
   view_zoom: 1.0
 groups:
-  - name: 地形图
+  - name: 默认地图
     display: true
     layers:
     - images:
-      - path: map/layers/layer_default/min/base.svg
-        width:  2500
-        height: 1251
-        offset:
-          x: 0
-          y: 0
-  - name: 地理名称
-    display: true
-    layers:
-    - zoom:
-        lte: 3
-      images:
-      - path: map/layers/layer_default/min/high.svg
-        width:  2500
-        height: 1251
-        offset:
-          x: 0
-          y: 0
-    - zoom:
-        lte: 9
-      images:
-      - path: map/layers/layer_default/min/low.svg
-        width:  2500
-        height: 1251
+      - path: map/layers/layer_default/default.svg
+        width:  2754
+        height: 1397
         offset:
           x: 0
           y: 0

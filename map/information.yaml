@@ -2,9 +2,9 @@ title: 火星地图 -- 2218版
 copyright: © 2018-2218 Yipolis Online 1.0 BETA
 menu:
   - type:   user
-    name:   火星
-    desc:   太阳系第四行星、人类殖民地
-    face:   map/images/logo.png
+    name:   地球
+    desc:   人类发源地
+    face:   map/images/logo.jpg
     bg:     map/images/bg.jpg
 
   - type:   action
@@ -28,7 +28,7 @@ menu:
 
   - type:   link
     text:   移民到驿宁共和国
-    url:    https://23shiji.github.io/enter-yipolis/
+    url:    'https://jq.qq.com/?_wv=1027&k=5FGHQBa'
 
   - type:   title
     text:   获取帮助

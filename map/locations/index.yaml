@@ -1,516 +1,1361 @@
----
-- name: 甘泉寨
-  pos:
-    lng: -94.98672
-    lat: 2.7312215827338093
-  template: cn_city
-- name: 宝鼎
-  pos:
-    lng: -88.66439711999999
-    lat: 7.913958273381311
-  template: cn_city
-- name: 岚州
-  pos:
-    lng: -102.18773088
-    lat: -2.4112230215827424
-  template: cn_city
-- name: 儒邑
-  pos:
-    lng: -92.683152
-    lat: -10.06446043165468
-  template: cn_city
-- name: 荆邑（军屯）
-  pos:
-    lng: -108.27144144
-    lat: -17.651653237410073
-  template: cn_city
-- name: 冯翊
-  pos:
-    lng: -92.96193168
-    lat: -27.469785611510794
-  template: cn_city
-- name: 弘农
-  pos:
-    lng: -103.96741968
-    lat: 0.6933769784172625
-  template: cn_city
-- name: 钜鹿
-  pos:
-    lng: -98.76715200000001
-    lat: 16.753096402877702
-  template: cn_city
-- name: 永伦
-  pos:
-    lng: -105.78081456
-    lat: 24.29323884892088
-  template: cn_city
-- name: 褒城
-  pos:
-    lng: -76.30804656000001
-    lat: -2.4112230215827424
-  template: cn_city
-- name: 新邑
-  pos:
-    lng: -140.82912
-    lat: 22.849352517985608
-  template: cn_city
-- name: 乾邑
-  pos:
-    lng: -125.11008144
-    lat: 31.782735251798556
-  template: cn_city
-- name: 富邑
-  pos:
-    lng: -130.72665744
-    lat: -12.916119424460419
-  template: cn_city
-- name: 上洛（军屯）
-  pos:
-    lng: -44.279858880000006
-    lat: 64.71841726618703
-  template: cn_city
-- name: 通义塞
-  pos:
-    lng: 4.30401599999999
-    lat: 59.175395683453246
-  template: cn_city
-- name: 寻阳
-  pos:
-    lng: -10.435392000000007
-    lat: 65.5208633093525
-  template: cn_city
-- name: 辰州
-  pos:
-    lng: -23.886144
-    lat: 69.53856115107914
-  template: cn_city
-- name: 乌邑
-  pos:
-    lng: -0.7339680000000044
-    lat: 47.3438820143885
-  template: cn_city
-- name: 马邑
-  pos:
-    lng: 9.171345600000024
-    lat: 64.89107913669062
-  template: cn_city
-- name: 瀛邑
-  pos:
-    lng: 44.490398400000004
-    lat: 0.43453525179856456
-  template: cn_city
-- name: 建衡（军屯）
-  pos:
-    lng: 49.67870400000001
-    lat: 16.180287769784172
-  template: cn_city
-- name: 绍邑
-  pos:
-    lng: 60.93014400000001
-    lat: 12.138128057553956
-  template: cn_city
-- name: 沅邑
-  pos:
-    lng: 44.097984
-    lat: 4.556692086330941
-  template: cn_city
-- name: 乾邑
-  pos:
-    lng: 41.261184000000014
-    lat: 12.940146762589947
-  template: cn_city
-- name: 汉嘉
-  pos:
-    lng: 41.53996799999999
-    lat: 20.176256115107904
-  template: cn_city
-- name: 下邑
-  pos:
-    lng: 49.67870400000001
-    lat: 21.512802877697823
-  template: cn_city
-- name: 海康（军屯）
-  pos:
-    lng: -25.765056000000016
-    lat: 51.87136402877698
-  template: cn_city
-- name: 溢乐
-  pos:
-    lng: -61.272430560000004
-    lat: 61.30374100719425
-  template: cn_city
-- name: 宣德
-  pos:
-    lng: -64.90901088
-    lat: 41.223882014388494
-  template: cn_city
-- name: 广济
-  pos:
-    lng: -46.43740656
-    lat: 60.43453237410071
-  template: cn_city
-- name: 庆祚
-  pos:
-    lng: -34.756703999999985
-    lat: 57.227194244604334
-  template: cn_city
-- name: 瑕丘
-  pos:
-    lng: -84.99931344000001
-    lat: 58.83007194244604
-  template: cn_city
-- name: 静戎
-  pos:
-    lng: -54.359858880000004
-    lat: 33.32733812949641
-  template: cn_city
-- name: 狄道塞
-  pos:
-    lng: -131.07168000000001
-    lat: 64.71812949640287
-  template: cn_city
-- name: 苏三
-  pos:
-    lng: -88.808976
-    lat: 53.716689208633085
-  template: cn_city
-- name: 汝宁
-  pos:
-    lng: -80.12591856
-    lat: 51.047336690647484
-  template: cn_city
-- name: 广信
-  pos:
-    lng: -62.385407999999984
-    lat: 48.79482014388489
-  template: cn_city
-- name: 归德
-  pos:
-    lng: -109.35014544
-    lat: 14.55554100719425
-  template: cn_city
-- name: 钟离
-  pos:
-    lng: -120.26188944
-    lat: 14.72834532374101
-  template: cn_city
-- name: 敬丘
-  pos:
-    lng: -127.78891200000001
-    lat: 18.00086618705035
-  template: cn_city
-- name: 鄜州
-  pos:
-    lng: -132.150384
-    lat: 10.456833093525177
-  template: cn_city
-- name: 驷望（军屯）
-  pos:
-    lng: -125.38886399999998
-    lat: 3.2412949640287962
-  template: cn_city
-- name: 湿沃
-  pos:
-    lng: -123.741936
-    lat: -23.264458992805757
-  template: cn_city
-- name: 桃林塞
-  pos:
-    lng: -120.50423856
-    lat: -19.700286330935256
-  template: cn_city
-- name: 幽州（军屯）
-  pos:
-    lng: -74.05243055999999
-    lat: 2.903886330935265
-  template: cn_city
-- name: 鹰堡<br/>Fort Hawk
-  pos:
-    lng: -86.07816143999999
-    lat: 33.02172374100721
-  template: us_city
-- name: 盎格鲁兰<br/>Anglesland
-  pos:
-    lng: -70.84785600000001
-    lat: 25.88129496402877
-  template: us_city
-- name: 希望市<br/>Hopeland
-  pos:
-    lng: -91.338192
-    lat: 27.497697841726634
-  template: us_city
-- name: 哥伦布维尔<br/>Columbusville
-  pos:
-    lng: -113.65675056
-    lat: 18.892374100719422
-  template: us_city
-- name: 十三所<br/>Vault 13
-  pos:
-    lng: -131.350464
-    lat: 23.651510791366917
-  template: us_city
-- name: 新里士满<br/>New Richmond
-  pos:
-    lng: -148.577328
-    lat: 18.258417266187053
-  template: us_city
-- name: 沃金斯堡<br/>Watkinsburg
-  pos:
-    lng: -129.647808
-    lat: -7.9257525179856145
-  template: us_city
-- name: 秋野<br/>Fallfield
-  pos:
-    lng: -110.428848
-    lat: -13.545615827338125
-  template: us_city
-- name: 圣韦恩<br/>Saint Wayne
-  pos:
-    lng: -102.466512
-    lat: -24.446762589928056
-  template: us_city
-- name: 强尼堡<br/>Fort Johnny
-  pos:
-    lng: -107.19259344
-    lat: -39.62676402877697
-  template: us_city
-- name: 新湾<br/>New Bay
-  pos:
-    lng: -91.23277968
-    lat: -42.3433107913669
-  template: us_city
-- name: 高曼港<br/>Goldmanhaven
-  pos:
-    lng: -140.02919856
-    lat: -38.82445899280576
-  template: us_city
-- name: 海伍德丘<br/>Haywood Hill
-  pos:
-    lng: -169.900415712
-    lat: 33.82388345323743
-  template: us_city
-- name: 堪萨斯顿<br/>Kansaston
-  pos:
-    lng: -157.658832
-    lat: 45.74029064748203
-  template: us_city
-- name: 里诺兰<br/>Renoland
-  pos:
-    lng: -115.25673744
-    lat: 64.71841726618703
-  template: us_city
-- name: 野牛堡<br/>Fort Bison
-  pos:
-    lng: -154.002672
-    lat: 62.10589928057553
-  template: us_city
-- name: 俄勒冈维尔<br/>Oreganville
-  pos:
-    lng: -119.904912
-    lat: -3.0130906474820023
-  template: us_city
-- name: 扬基波利斯<br/>Yankeepolis
-  pos:
-    lng: -27.746654399999983
-    lat: 37.17352805755395
-  template: us_city
-- name: 蔚蓝城<br/>Azureville
-  pos:
-    lng: -75.786768
-    lat: 14.63539568345324
-  template: us_city
-- name: 古德曼顿<br/>Goodmanton
-  pos:
-    lng: -59.16024288
-    lat: 17.456116546762587
-  template: us_city
-- name: 新昆西<br/>New Quincy
-  pos:
-    lng: -90.15408144
-    lat: 16.465326618705035
-  template: us_city
-- name: 凯利堡<br/>Careyburg
-  pos:
-    lng: 15.948575999999974
-    lat: 45.24287625899282
-  template: us_city
-- name: 加拿大拱<br/>Canadian Dome
-  pos:
-    lng: 118.14148800000004
-    lat: 53.14475107913668
-  template: us_city
-- name: 新温哥华<br/>New Vancouver
-  pos:
-    lng: 102.21249599999999
-    lat: 26.020287769784176
-  template: us_city
-- name: 布什福德<br/>Bushford
-  pos:
-    lng: 160.462224
-    lat: 36.07712517985611
-  template: us_city
-- name: 新乡<br/>New Country
-  pos:
-    lng: -6.053903999999989
-    lat: 41.03539568345326
-  template: us_city
-- name: 布雷克斯维尔<br/>Breakersville
-  pos:
-    lng: 54.891504000000026
-    lat: -6.360715107913663
-  template: us_city
-- name: 枫叶堡<br/>Mapleburg
-  pos:
-    lng: 32.15044800000001
-    lat: 5.892808633093523
-  template: us_city
-- name: 布鲁斯特维尔<br/>Blueshitville
-  pos:
-    lng: 58.724496000000016
-    lat: 5.358992805755392
-  template: us_city
-- name: 新休斯顿<br/>New Houston
-  pos:
-    lng: -19.534751999999997
-    lat: 60.16647482014389
-  template: us_city
-- name: 孤星堡<br/>Fort Lonestar
-  pos:
-    lng: -75.98174399999999
-    lat: 64.52992805755395
-  template: us_city
-- name: 安东尼奥波利斯<br/>Antoniopolis
-  pos:
-    lng: -114.17803488
-    lat: 33.32733812949641
-  template: us_city
-- name: 旧加州<br/>Old California
-  pos:
-    lng: -165.426048
-    lat: 23.302300719424466
-  template: us_city
-- name: 塞琉西亚<br/>Seleucia
-  pos:
-    lng: -149.377392
-    lat: 32.585176978417266
-  template: eu_city
-- name: 喀罗尼亚<br/>Chaeronea
-  pos:
-    lng: -151.923024
-    lat: 52.91452949640288
-  template: eu_city
-- name: 狄奥多西<br/>Diadochoi
-  pos:
-    lng: -95.544288
-    lat: 41.3968345323741
-  template: eu_city
-- name: 德尔斐<br/>Delphi
-  pos:
-    lng: -91.23292944
-    lat: 70.73597122302158
-  template: eu_city
-- name: 拜占庭<br/>Byzantium
-  pos:
-    lng: -62.925117119999996
-    lat: 8.18532374100721
-  template: eu_city
-- name: 皮奥夏<br/>Boiotia
-  pos:
-    lng: -94.18680144
-    lat: 11.258562589928061
-  template: eu_city
-- name: 迈锡尼<br/>Mycenae
-  pos:
-    lng: -31.787136000000004
-    lat: 28.925464748201435
-  template: eu_city
-- name: 斯巴达<br/>Sparta
-  pos:
-    lng: 6.2316000000000145
-    lat: 53.1979870503597
-  template: eu_city
-- name: 色雷斯<br/>Thrace
-  pos:
-    lng: 23.205887999999987
-    lat: 55.625035971223014
-  template: eu_city
-- name: 赫利奥波利斯<br/>Heliopolis
-  pos:
-    lng: 90.94089600000001
-    lat: 67.83223021582734
-  template: eu_city
-- name: 亚该亚<br/>Achaea
-  pos:
-    lng: 24.284592000000004
-    lat: 10.709640287769773
-  template: eu_city
-- name: 马拉松<br/>Marathon
-  pos:
-    lng: -50.373501120000014
-    lat: 27.220572661870506
-  template: eu_city
-- name: 科林西亚<br/>Corinthia
-  pos:
-    lng: 75.26880000000003
-    lat: 11.335827338129505
-  template: eu_city
-- name: 阿戈利斯<br/>Argolis
-  pos:
-    lng: 69.58123200000003
-    lat: 0.08517697841728022
-  template: eu_city
-- name: 奈阿波利斯<br/>Neapolis
-  pos:
-    lng: -88.530192
-    lat: 22.104748201438852
-  template: eu_city
-- name: 伊庇鲁斯<br/>Epirus
-  pos:
-    lng: -95.26550112
-    lat: -6.844894964028768
-  template: eu_city
-- name: 迦太基<br/>Carthage
-  pos:
-    lng: -75.786768
-    lat: -25.783020143884883
-  template: eu_city
-- name: 维爱<br/>Veii
-  pos:
-    lng: -121.899744
-    lat: -15.4224417266187
-  template: eu_city
-- name: 拉古萨<br/>Ragusina
-  pos:
-    lng: -96.62313888
-    lat: -15.4224417266187
-  template: eu_city
-- name: 希波勒吉斯<br/>Hippo Regius
-  pos:
-    lng: -114.736896
-    lat: -30.064460431654673
-  template: eu_city
-- name: 佩拉<br/>Pella
-  pos:
-    lng: -93.907872
-    lat: -34.25064604316546
-  template: eu_city
-- name: 西锡安<br/>Sicyon
-  pos:
-    lng: -137.63232
-    lat: 29.72762446043164
-  template: eu_city
-- name: 萨第斯<br/>Sadis
-  pos:
-    lng: -122.42087856
-    lat: 21.121870503597123
-  template: eu_city
-- name: 塔尔奎尼<br/>Tarquinii
-  pos:
-    lng: -138.95035344000001
-    lat: 4.067628776978424
-  template: eu_city
-- name: 克卢西乌姆<br/>Clusium
-  pos:
-    lng: -140.55033744
-    lat: 13.564602877697837
-  template: eu_city
+- desc: map/locations/descriptions/saigon.md
+  name: 西贡<br/>Saigon
+  pos:
+    lat: -10.8
+    lng: 106.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/mandalanusa.md
+  name: 曼达拉努萨<br/>Mandalanusa
+  pos:
+    lat: -0.8
+    lng: 114.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/dezhnevgrad.md
+  name: 迭日涅夫格勒<br/>Dezhnevgrad
+  pos:
+    lat: -61.2
+    lng: -149.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/hanoi.md
+  name: 河内<br/>Hanoi
+  pos:
+    lat: -21.0
+    lng: 105.8
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/phnom_penh.md
+  name: 金边<br/>Phnom Penh
+  pos:
+    lat: -11.5
+    lng: 104.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/darjeeling.md
+  name: 大吉岭<br/>Darjeeling
+  pos:
+    lat: -27.0
+    lng: 88.2
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/bandung.md
+  name: 万隆<br/>Bandung
+  pos:
+    lat: 6.9
+    lng: 107.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/vieng_chan.md
+  name: 万象<br/>Vieng Chan
+  pos:
+    lat: -17.9
+    lng: 102.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/xieng_thong.md
+  name: 川铜<br/>Xieng Thong
+  pos:
+    lat: -19.8
+    lng: 102.1
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/krung_thep.md
+  name: 曼谷<br/>Krung Thep
+  pos:
+    lat: -13.7
+    lng: 100.4
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ava.md
+  name: 阿瓦<br/>Ava
+  pos:
+    lat: -21.9
+    lng: 95.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/yangon.md
+  name: 仰光<br/>Yangon
+  pos:
+    lat: -16.8
+    lng: 96.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/manila.md
+  name: 马尼拉<br/>Manila
+  pos:
+    lat: -14.6
+    lng: 121.0
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/cebu.md
+  name: 宿务<br/>Cebu
+  pos:
+    lat: -10.28
+    lng: 123.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/jefferson,_district_of_cascadia.md
+  name: 杰裴逊特区<br/>Jefferson, District of Cascadia
+  pos:
+    lat: -38.8
+    lng: -121.6
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/obalovsk.md
+  name: 鄂巴洛夫斯克<br/>Obalovsk
+  pos:
+    lat: -67.6
+    lng: 72.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/kuala_lumpur.md
+  name: 吉隆坡<br/>Kuala Lumpur
+  pos:
+    lat: -3.1
+    lng: 101.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/putrajaya.md
+  name: 布城<br/>Putrajaya
+  pos:
+    lat: -2.9
+    lng: 101.6
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kuching.md
+  name: 古晋<br/>Kuching
+  pos:
+    lat: -1.5
+    lng: 110.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/limbang.md
+  name: 林梦<br/>Limbang
+  pos:
+    lat: -4.7
+    lng: 115.0
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/api.md
+  name: 亚庇<br/>Api
+  pos:
+    lat: -5.9
+    lng: 116.0
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/jolo.md
+  name: 和乐<br/>Jolo
+  pos:
+    lat: -6.0
+    lng: 121.0
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/tarakan.md
+  name: 同康<br/>Tarakan
+  pos:
+    lat: -3.3
+    lng: 117.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/palangkaraya.md
+  name: 彭阔<br/>Palangkaraya
+  pos:
+    lat: 2.2
+    lng: 113.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/samarinda.md
+  name: 沙润<br/>Samarinda
+  pos:
+    lat: 0.4
+    lng: 117.1
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/masin.md
+  name: 马辰<br/>Masin
+  pos:
+    lat: 3.3
+    lng: 114.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/pontianak.md
+  name: 坤甸<br/>Pontianak
+  pos:
+    lat: 0.0
+    lng: 109.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/palembang.md
+  name: 巨港<br/>Palembang
+  pos:
+    lat: 2.9
+    lng: 104.7
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/banda_aceh.md
+  name: 班达亚齐<br/>Banda Aceh
+  pos:
+    lat: -5.5
+    lng: 95.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/malang.md
+  name: 玛琅<br/>Malang
+  pos:
+    lat: 7.9
+    lng: 112.6
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/jakarta.md
+  name: 雅龛<br/>Jakarta
+  pos:
+    lat: 6.2
+    lng: 106.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/ujung_pandang.md
+  name: 锡江<br/>Ujung Pandang
+  pos:
+    lat: 5.1
+    lng: 119.4
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/dili.md
+  name: 帝力<br/>Dili
+  pos:
+    lat: 8.5
+    lng: 125.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/thimphu.md
+  name: 廷布<br/>Thimphu
+  pos:
+    lat: -27.4
+    lng: 89.6
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kathmandu.md
+  name: 加德满都<br/>Kathmandu
+  pos:
+    lat: -27.7
+    lng: 85.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kolkata.md
+  name: 加尔各答<br/>Kolkata
+  pos:
+    lat: -22.5
+    lng: 88.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/dhaka.md
+  name: 达卡<br/>Dhaka
+  pos:
+    lat: -23.8
+    lng: 90.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/chittagong.md
+  name: 吉大港<br/>Chittagong
+  pos:
+    lat: -22.3
+    lng: 91.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/visakhapatnam.md
+  name: 维沙卡帕特南<br/>Visakhapatnam
+  pos:
+    lat: -17.6
+    lng: 83.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/nagpur.md
+  name: 那格浦尔<br/>Nagpur
+  pos:
+    lat: -21.1
+    lng: 79.0
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/surat.md
+  name: 苏拉特<br/>Surat
+  pos:
+    lat: -21.2
+    lng: 72.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/lucknow.md
+  name: 勒克瑙<br/>Lucknow
+  pos:
+    lat: -26.8
+    lng: 80.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/kanpur.md
+  name: 坎普尔<br/>Kanpur
+  pos:
+    lat: -26.4
+    lng: 80.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/bhopal.md
+  name: 博帕尔<br/>Bhopal
+  pos:
+    lat: -23.2
+    lng: 77.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/indore.md
+  name: 印多尔<br/>Indore
+  pos:
+    lat: -22.7
+    lng: 75.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/agra.md
+  name: 阿格拉<br/>Agra
+  pos:
+    lat: -27.1
+    lng: 78.0
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/pune.md
+  name: 浦那<br/>Pune
+  pos:
+    lat: -18.5
+    lng: 73.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/mumbai.md
+  name: 孟买<br/>Mumbai
+  pos:
+    lat: -19.0
+    lng: 72.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/faisalabad.md
+  name: 海得拉巴<br/>Faisalabad
+  pos:
+    lat: -17.3
+    lng: 78.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/chennai.md
+  name: 金奈<br/>Chennai
+  pos:
+    lat: -13.0
+    lng: 80.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/bengaluru.md
+  name: 班加罗尔<br/>Bengaluru
+  pos:
+    lat: -12.9
+    lng: 77.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/islamabad.md
+  name: 伊斯兰堡<br/>Islamabad
+  pos:
+    lat: -33.6
+    lng: 73.0
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ahmedabad.md
+  name: 阿穆达巴<br/>Ahmedabad
+  pos:
+    lat: -23.0
+    lng: 72.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/delhi.md
+  name: 德里<br/>Delhi
+  pos:
+    lat: -28.6
+    lng: 77.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/jaipur.md
+  name: 斋浦尔<br/>Jaipur
+  pos:
+    lat: -26.9
+    lng: 75.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/faisalabad.md
+  name: 费萨拉巴<br/>Faisalabad
+  pos:
+    lat: -31.4
+    lng: 73.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/karachi.md
+  name: 卡拉奇<br/>Karachi
+  pos:
+    lat: -24.8
+    lng: 67.0
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/multan.md
+  name: 木尔坦<br/>Multan
+  pos:
+    lat: -30.1
+    lng: 71.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/lahore.md
+  name: 拉合尔<br/>Lahore
+  pos:
+    lat: -31.5
+    lng: 74.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/peshawar.md
+  name: 白沙瓦<br/>Peshawar
+  pos:
+    lat: -34.0
+    lng: 71.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/ludhiana.md
+  name: 卢迪亚纳<br/>Ludhiana
+  pos:
+    lat: -30.9
+    lng: 75.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/tyumen.md
+  name: 秋明<br/>Tyumen
+  pos:
+    lat: -57.1
+    lng: 65.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/novosibirsk.md
+  name: 新西伯利亚<br/>Novosibirsk
+  pos:
+    lat: -54.9
+    lng: 82.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/surabaya.md
+  name: 泗水<br/>Surabaya
+  pos:
+    lat: 7.2
+    lng: 112.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/medan.md
+  name: 棉兰<br/>Medan
+  pos:
+    lat: -3.5
+    lng: 98.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/davao.md
+  name: 达沃<br/>Davao
+  pos:
+    lat: -7.1
+    lng: 125.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/danang.md
+  name: 岘港<br/>Danang
+  pos:
+    lat: -16.0
+    lng: 108.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/haiphong.md
+  name: 海防<br/>Haiphong
+  pos:
+    lat: -20.8
+    lng: 106.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/almaty.md
+  name: 阿拉木图<br/>Almaty
+  pos:
+    lat: -43.2
+    lng: 76.8
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/toshkent.md
+  name: 塔什干<br/>Toshkent
+  pos:
+    lat: -41.3
+    lng: 69.2
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/samarqand.md
+  name: 撒马尔罕<br/>Samarqand
+  pos:
+    lat: -39.6
+    lng: 66.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/bishkek.md
+  name: 比什凯克<br/>Bishkek
+  pos:
+    lat: -42.8
+    lng: 74.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/dushanbe.md
+  name: 杜尚别<br/>Dushanbe
+  pos:
+    lat: -38.5
+    lng: 68.7
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ashgabat.md
+  name: 阿什哈巴德<br/>Ashgabat
+  pos:
+    lat: -37.9
+    lng: 58.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kabul.md
+  name: 喀布尔<br/>Kabul
+  pos:
+    lat: -34.5
+    lng: 69.1
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/herat.md
+  name: 赫拉特<br/>Herat
+  pos:
+    lat: -34.3
+    lng: 62.1
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/tehran.md
+  name: 德黑兰<br/>Tehran
+  pos:
+    lat: -35.7
+    lng: 51.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/mashhad.md
+  name: 马什哈德<br/>Mashhad
+  pos:
+    lat: -36.2
+    lng: 59.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/isfahan.md
+  name: 伊斯法罕<br/>Isfahan
+  pos:
+    lat: -32.6
+    lng: 51.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/shiraz.md
+  name: 设拉子<br/>Shiraz
+  pos:
+    lat: -29.6
+    lng: 52.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/tabriz.md
+  name: 大不里士<br/>Tabriz
+  pos:
+    lat: -38.0
+    lng: 46.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/basra.md
+  name: 巴士拉<br/>Basra
+  pos:
+    lat: -30.5
+    lng: 47.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/bak_.md
+  name: 巴库<br/>Bak_
+  pos:
+    lat: -40.3
+    lng: 49.8
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/yerevan.md
+  name: 埃里温<br/>Yerevan
+  pos:
+    lat: -40.1
+    lng: 44.5
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/tbilisi.md
+  name: 第比利斯<br/>Tbilisi
+  pos:
+    lat: -41.7
+    lng: 44.8
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/caesarea.md
+  name: 卡萨里亚<br/>Caesarea
+  pos:
+    lat: -38.7
+    lng: 35.4
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ankara.md
+  name: 安卡拉<br/>Ankara
+  pos:
+    lat: -39.9
+    lng: 32.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/baghdad.md
+  name: 巴格达<br/>Baghdad
+  pos:
+    lat: -33.3
+    lng: 44.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/konya.md
+  name: 科尼亚<br/>Konya
+  pos:
+    lat: -37.8
+    lng: 32.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/aleppo.md
+  name: 阿勒颇<br/>Aleppo
+  pos:
+    lat: -36.2
+    lng: 37.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/beyrouth.md
+  name: 贝鲁特<br/>Beyrouth
+  pos:
+    lat: -33.8
+    lng: 35.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/dimashq.md
+  name: 大马士革<br/>Dimashq
+  pos:
+    lat: -33.5
+    lng: 36.2
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/adana.md
+  name: 阿达纳<br/>Adana
+  pos:
+    lat: -36.9
+    lng: 35.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/pyongyang.md
+  name: 平壤<br/>Pyongyang
+  pos:
+    lat: -39.0
+    lng: 125.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/hamhung.md
+  name: 咸兴<br/>Hamhung
+  pos:
+    lat: -39.9
+    lng: 127.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/seoul.md
+  name: 首尔<br/>Seoul
+  pos:
+    lat: -37.5
+    lng: 126.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/busan.md
+  name: 釜山<br/>Busan
+  pos:
+    lat: -35.1
+    lng: 129.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/daegu.md
+  name: 大邱<br/>Daegu
+  pos:
+    lat: -35.8
+    lng: 128.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/cantho.md
+  name: 芹苴<br/>Cantho
+  pos:
+    lat: -10.0
+    lng: 105.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/osaka.md
+  name: 大阪<br/>Osaka
+  pos:
+    lat: -34.6
+    lng: 135.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/fukuoka.md
+  name: 福冈<br/>Fukuoka
+  pos:
+    lat: -33.5
+    lng: 130.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/tokyo.md
+  name: 东京<br/>Tokyo
+  pos:
+    lat: -35.6
+    lng: 139.7
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/sapporo.md
+  name: 札幌<br/>Sapporo
+  pos:
+    lat: -43.0
+    lng: 141.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/hiroshima.md
+  name: 广岛<br/>Hiroshima
+  pos:
+    lat: -34.3
+    lng: 132.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/colombo.md
+  name: 科伦坡<br/>Colombo
+  pos:
+    lat: -6.9
+    lng: 79.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/asmara.md
+  name: 阿斯马拉<br/>Asmara
+  pos:
+    lat: -15.3
+    lng: 38.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/addis_ababa.md
+  name: 亚的斯亚贝巴<br/>Addis Ababa
+  pos:
+    lat: -9.0
+    lng: 38.7
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/jibuti.md
+  name: 吉布提<br/>Jibuti
+  pos:
+    lat: -11.5
+    lng: 43.1
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/hargaysa.md
+  name: 哈尔格萨<br/>Hargaysa
+  pos:
+    lat: -9.5
+    lng: 44.0
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/mogadishu.md
+  name: 摩加迪沙<br/>Mogadishu
+  pos:
+    lat: -2.0
+    lng: 45.3
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/arusha.md
+  name: 阿鲁沙<br/>Arusha
+  pos:
+    lat: 3.3
+    lng: 36.6
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/nairobi.md
+  name: 内罗毕<br/>Nairobi
+  pos:
+    lat: 1.2
+    lng: 36.8
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/mombasa.md
+  name: 蒙巴萨<br/>Mombasa
+  pos:
+    lat: 4.0
+    lng: 39.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/dar_es_salaam.md
+  name: 达累斯萨拉姆<br/>Dar es Salaam
+  pos:
+    lat: 6.7
+    lng: 39.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/kampala.md
+  name: 坎帕拉<br/>Kampala
+  pos:
+    lat: -0.3
+    lng: 32.5
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/wau.md
+  name: 瓦乌<br/>Wau
+  pos:
+    lat: -7.7
+    lng: 27.98
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ndele.md
+  name: 恩代莱<br/>Ndele
+  pos:
+    lat: -8.4
+    lng: 20.64
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/bangui.md
+  name: 班吉<br/>Bangui
+  pos:
+    lat: -4.38
+    lng: 18.55
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/yaounde.md
+  name: 雅温得<br/>Yaounde
+  pos:
+    lat: -3.85
+    lng: 11.51
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/libreville.md
+  name: 利伯维尔<br/>Libreville
+  pos:
+    lat: -0.41
+    lng: 9.46
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kinshasa.md
+  name: 金沙萨<br/>Kinshasa
+  pos:
+    lat: 4.33
+    lng: 15.26
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kisangani.md
+  name: 基桑加尼<br/>Kisangani
+  pos:
+    lat: -0.51
+    lng: 25.19
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/mbuji-mayi.md
+  name: 姆布吉马伊<br/>Mbuji-Mayi
+  pos:
+    lat: 6.12
+    lng: 23.59
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/kindu.md
+  name: 金杜<br/>Kindu
+  pos:
+    lat: 2.94
+    lng: 25.92
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/luanda.md
+  name: 罗安达<br/>Luanda
+  pos:
+    lat: 8.82
+    lng: 13.23
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/luena.md
+  name: 卢埃纳<br/>Luena
+  pos:
+    lat: 11.77
+    lng: 19.9
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/lubumbashi.md
+  name: 卢本巴希<br/>Lubumbashi
+  pos:
+    lat: 11.66
+    lng: 27.48
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/lusaka.md
+  name: 卢萨卡<br/>Lusaka
+  pos:
+    lat: 15.4
+    lng: 28.3
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/mcintyre.md
+  name: 麦金泰尔<br/>Mcintyre
+  pos:
+    lat: 13.96
+    lng: 33.77
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/nampula.md
+  name: 楠普拉<br/>Nampula
+  pos:
+    lat: 15.12
+    lng: 39.26
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/paramaribo.md
+  name: 帕拉马里博<br/>Paramaribo
+  pos:
+    lat: -5.79
+    lng: -55.2
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/santa_fe_de_bogotáa.md
+  name: 圣菲波哥大<br/>Santa Fe de Bogotáa
+  pos:
+    lat: -4.65
+    lng: -74.08
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/cristobal.md
+  name: 克里斯托瓦尔<br/>Cristobal
+  pos:
+    lat: -9.34
+    lng: -79.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/caracas.md
+  name: 加拉加斯<br/>Caracas
+  pos:
+    lat: -10.49
+    lng: -66.89
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/lima.md
+  name: 利马<br/>Lima
+  pos:
+    lat: 12.08
+    lng: -77.06
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/guayaquil.md
+  name: 瓜亚基尔<br/>Guayaquil
+  pos:
+    lat: 2.18
+    lng: -79.88
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/quito.md
+  name: 基多<br/>Quito
+  pos:
+    lat: 0.18
+    lng: -78.47
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/medellin.md
+  name: 麦德林<br/>Medellin
+  pos:
+    lat: -6.25
+    lng: -75.57
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/cali.md
+  name: 卡利<br/>Cali
+  pos:
+    lat: -3.44
+    lng: -76.51
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/barquisimeto.md
+  name: 巴基西梅托<br/>Barquisimeto
+  pos:
+    lat: -10.07
+    lng: -69.33
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/maracaibo.md
+  name: 马拉开波<br/>Maracaibo
+  pos:
+    lat: -10.64
+    lng: -71.62
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/barranquilla.md
+  name: 巴兰基亚<br/>Barranquilla
+  pos:
+    lat: -10.99
+    lng: -74.79
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/la_habana.md
+  name: 哈瓦那<br/>La Habana
+  pos:
+    lat: -23.12
+    lng: -82.36
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/brasília.md
+  name: 巴西利亚<br/>Brasília
+  pos:
+    lat: 15.79
+    lng: -47.88
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/sao_paulo.md
+  name: 圣保罗<br/>Sao Paulo
+  pos:
+    lat: 23.56
+    lng: -46.64
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/rio_de_janeiro.md
+  name: 里约热内卢<br/>Rio de Janeiro
+  pos:
+    lat: 22.91
+    lng: -43.18
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/salvador.md
+  name: 萨尔瓦多<br/>Salvador
+  pos:
+    lat: 12.96
+    lng: -38.49
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/fortaleza.md
+  name: 福塔莱萨<br/>Fortaleza
+  pos:
+    lat: 3.72
+    lng: -38.52
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/recife.md
+  name: 累西腓<br/>Recife
+  pos:
+    lat: 8.05
+    lng: -34.88
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/belo_horizonte.md
+  name: 贝洛奥里藏特<br/>Belo Horizonte
+  pos:
+    lat: 19.91
+    lng: -43.94
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/manaus.md
+  name: 马瑙斯<br/>Manaus
+  pos:
+    lat: 3.12
+    lng: -60.02
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/curitiba.md
+  name: 库里奇巴<br/>Curitiba
+  pos:
+    lat: 25.42
+    lng: -49.27
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/porto_alegre.md
+  name: 阿雷格里港<br/>Porto Alegre
+  pos:
+    lat: 30.04
+    lng: -51.2
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/belem.md
+  name: 贝伦<br/>Belem
+  pos:
+    lat: 1.45
+    lng: -48.48
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/ciudad_obrera.md
+  name: 奥博莱拉<br/>Ciudad Obrera
+  pos:
+    lat: 31.77
+    lng: -64.53
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/buenos_aires.md
+  name: 布宜诺斯艾利斯<br/>Buenos Aires
+  pos:
+    lat: 34.61
+    lng: -58.4
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/cordoba.md
+  name: 科尔多瓦<br/>Cordoba
+  pos:
+    lat: 31.42
+    lng: -64.18
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/montevideo.md
+  name: 蒙得维的亚<br/>Montevideo
+  pos:
+    lat: 34.89
+    lng: -56.16
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/asuncion.md
+  name: 亚松森<br/>Asuncion
+  pos:
+    lat: 25.29
+    lng: -57.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/santiago.md
+  name: 圣地亚哥<br/>Santiago
+  pos:
+    lat: 33.44
+    lng: -70.65
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/rosario.md
+  name: 罗萨里奥<br/>Rosario
+  pos:
+    lat: 32.95
+    lng: -60.69
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/san_salvador.md
+  name: 圣萨尔瓦多<br/>San Salvador
+  pos:
+    lat: -13.7
+    lng: -89.21
+  tags:
+  - 政治中心
+  template: city
+- desc: map/locations/descriptions/ciudad_de_guatemala.md
+  name: 危地马拉城<br/>Ciudad de Guatemala
+  pos:
+    lat: -14.63
+    lng: -90.51
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/managua.md
+  name: 马那瓜<br/>Managua
+  pos:
+    lat: -12.12
+    lng: -86.23
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/xn--6kr68kw6orhe.md
+  name: 南洋天梯<br/>
+  pos:
+    lat: -0.0
+    lng: 104.59
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--rss74ir9k797a.md
+  name: 巴西天梯<br/>
+  pos:
+    lat: -0.0
+    lng: -51.81
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--jlq1m60mt2ena859u66e.md
+  name: 大哥伦比亚天梯<br/>
+  pos:
+    lat: -0.0
+    lng: -79.61
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--yfry5m2qkdje6x5f.md
+  name: 摩鹿加天梯<br/>
+  pos:
+    lat: -0.0
+    lng: 127.79
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--xhq42ywqm1p9b.md
+  name: 东非天梯<br/>
+  pos:
+    lat: -0.0
+    lng: 40.19
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--mnq53wfa290advwxm4e.md
+  name: 马尔代夫天梯<br/>
+  pos:
+    lat: -0.0
+    lng: 73.23
+  tags: []
+  template: city
+- desc: map/locations/descriptions/xn--rss247a7xy3ul.md
+  name: 西非天梯<br/>
+  pos:
+    lat: -0.0
+    lng: 6.54
+  tags: []
+  template: city
