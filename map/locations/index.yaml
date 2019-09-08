@@ -13,6 +13,7 @@
     lng: 114.5
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/dezhnevgrad.md
   name: 迭日涅夫格勒<br/>Dezhnevgrad
@@ -29,6 +30,7 @@
     lng: 105.8
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/phnom_penh.md
   name: 金边<br/>Phnom Penh
@@ -37,6 +39,7 @@
     lng: 104.9
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/darjeeling.md
   name: 大吉岭<br/>Darjeeling
@@ -45,6 +48,7 @@
     lng: 88.2
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/bandung.md
   name: 万隆<br/>Bandung
@@ -69,6 +73,7 @@
     lng: 102.1
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/krung_thep.md
   name: 曼谷<br/>Krung Thep
@@ -101,6 +106,7 @@
     lng: 121.0
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/cebu.md
   name: 宿务<br/>Cebu
@@ -141,6 +147,7 @@
     lng: 101.6
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kuching.md
   name: 古晋<br/>Kuching
@@ -221,6 +228,7 @@
     lng: 104.7
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/banda_aceh.md
   name: 班达亚齐<br/>Banda Aceh
@@ -229,6 +237,7 @@
     lng: 95.3
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/malang.md
   name: 玛琅<br/>Malang
@@ -237,6 +246,7 @@
     lng: 112.6
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/jakarta.md
   name: 雅龛<br/>Jakarta
@@ -253,6 +263,7 @@
     lng: 119.4
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/dili.md
   name: 帝力<br/>Dili
@@ -261,6 +272,7 @@
     lng: 125.5
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/thimphu.md
   name: 廷布<br/>Thimphu
@@ -269,6 +281,7 @@
     lng: 89.6
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kathmandu.md
   name: 加德满都<br/>Kathmandu
@@ -277,6 +290,7 @@
     lng: 85.3
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kolkata.md
   name: 加尔各答<br/>Kolkata
@@ -285,6 +299,7 @@
     lng: 88.3
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/dhaka.md
   name: 达卡<br/>Dhaka
@@ -413,6 +428,7 @@
     lng: 73.0
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/ahmedabad.md
   name: 阿穆达巴<br/>Ahmedabad
@@ -493,6 +509,7 @@
     lng: 65.5
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/novosibirsk.md
   name: 新西伯利亚<br/>Novosibirsk
@@ -557,6 +574,7 @@
     lng: 69.2
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/samarqand.md
   name: 撒马尔罕<br/>Samarqand
@@ -597,6 +615,7 @@
     lng: 69.1
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/herat.md
   name: 赫拉特<br/>Herat
@@ -605,6 +624,7 @@
     lng: 62.1
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/tehran.md
   name: 德黑兰<br/>Tehran
@@ -613,6 +633,7 @@
     lng: 51.3
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/mashhad.md
   name: 马什哈德<br/>Mashhad
@@ -654,13 +675,14 @@
   tags:
   - 经济中心
   template: city
-- desc: map/locations/descriptions/bak_.md
-  name: 巴库<br/>Bak_
+- desc: map/locations/descriptions/bakı.md
+  name: 巴库<br/>Bakı
   pos:
     lat: -40.3
     lng: 49.8
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/yerevan.md
   name: 埃里温<br/>Yerevan
@@ -669,6 +691,7 @@
     lng: 44.5
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/tbilisi.md
   name: 第比利斯<br/>Tbilisi
@@ -677,6 +700,7 @@
     lng: 44.8
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/caesarea.md
   name: 卡萨里亚<br/>Caesarea
@@ -685,6 +709,7 @@
     lng: 35.4
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/ankara.md
   name: 安卡拉<br/>Ankara
@@ -733,6 +758,7 @@
     lng: 36.2
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/adana.md
   name: 阿达纳<br/>Adana
@@ -765,6 +791,7 @@
     lng: 126.9
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/busan.md
   name: 釜山<br/>Busan
@@ -813,6 +840,7 @@
     lng: 139.7
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/sapporo.md
   name: 札幌<br/>Sapporo
@@ -837,6 +865,7 @@
     lng: 79.9
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/asmara.md
   name: 阿斯马拉<br/>Asmara
@@ -853,6 +882,7 @@
     lng: 38.7
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/jibuti.md
   name: 吉布提<br/>Jibuti
@@ -885,6 +915,7 @@
     lng: 36.6
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/nairobi.md
   name: 内罗毕<br/>Nairobi
@@ -925,6 +956,7 @@
     lng: 27.98
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/ndele.md
   name: 恩代莱<br/>Ndele
@@ -933,6 +965,7 @@
     lng: 20.64
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/bangui.md
   name: 班吉<br/>Bangui
@@ -941,6 +974,7 @@
     lng: 18.55
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/yaounde.md
   name: 雅温得<br/>Yaounde
@@ -949,6 +983,7 @@
     lng: 11.51
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/libreville.md
   name: 利伯维尔<br/>Libreville
@@ -957,6 +992,7 @@
     lng: 9.46
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kinshasa.md
   name: 金沙萨<br/>Kinshasa
@@ -965,6 +1001,7 @@
     lng: 15.26
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kisangani.md
   name: 基桑加尼<br/>Kisangani
@@ -973,6 +1010,7 @@
     lng: 25.19
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/mbuji-mayi.md
   name: 姆布吉马伊<br/>Mbuji-Mayi
@@ -981,6 +1019,7 @@
     lng: 23.59
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/kindu.md
   name: 金杜<br/>Kindu
@@ -989,6 +1028,7 @@
     lng: 25.92
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/luanda.md
   name: 罗安达<br/>Luanda
@@ -997,6 +1037,7 @@
     lng: 13.23
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/luena.md
   name: 卢埃纳<br/>Luena
@@ -1005,6 +1046,7 @@
     lng: 19.9
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/lubumbashi.md
   name: 卢本巴希<br/>Lubumbashi
@@ -1013,6 +1055,7 @@
     lng: 27.48
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/lusaka.md
   name: 卢萨卡<br/>Lusaka
@@ -1021,6 +1064,7 @@
     lng: 28.3
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/mcintyre.md
   name: 麦金泰尔<br/>Mcintyre
@@ -1029,6 +1073,7 @@
     lng: 33.77
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/nampula.md
   name: 楠普拉<br/>Nampula
@@ -1037,6 +1082,7 @@
     lng: 39.26
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/paramaribo.md
   name: 帕拉马里博<br/>Paramaribo
@@ -1045,6 +1091,7 @@
     lng: -55.2
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/santa_fe_de_bogotáa.md
   name: 圣菲波哥大<br/>Santa Fe de Bogotáa
@@ -1053,6 +1100,7 @@
     lng: -74.08
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/cristobal.md
   name: 克里斯托瓦尔<br/>Cristobal
@@ -1141,6 +1189,7 @@
     lng: -82.36
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/brasília.md
   name: 巴西利亚<br/>Brasília
@@ -1149,6 +1198,7 @@
     lng: -47.88
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/sao_paulo.md
   name: 圣保罗<br/>Sao Paulo
@@ -1237,6 +1287,7 @@
     lng: -64.53
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/buenos_aires.md
   name: 布宜诺斯艾利斯<br/>Buenos Aires
@@ -1293,6 +1344,7 @@
     lng: -89.21
   tags:
   - 政治中心
+  - 首都
   template: city
 - desc: map/locations/descriptions/ciudad_de_guatemala.md
   name: 危地马拉城<br/>Ciudad de Guatemala
@@ -1315,47 +1367,203 @@
   pos:
     lat: -0.0
     lng: 104.59
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--rss74ir9k797a.md
   name: 巴西天梯<br/>
   pos:
     lat: -0.0
     lng: -51.81
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--jlq1m60mt2ena859u66e.md
   name: 大哥伦比亚天梯<br/>
   pos:
     lat: -0.0
     lng: -79.61
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--yfry5m2qkdje6x5f.md
   name: 摩鹿加天梯<br/>
   pos:
     lat: -0.0
     lng: 127.79
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--xhq42ywqm1p9b.md
   name: 东非天梯<br/>
   pos:
     lat: -0.0
     lng: 40.19
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--mnq53wfa290advwxm4e.md
   name: 马尔代夫天梯<br/>
   pos:
     lat: -0.0
     lng: 73.23
-  tags: []
+  tags:
+  - 天梯
   template: city
 - desc: map/locations/descriptions/xn--rss247a7xy3ul.md
   name: 西非天梯<br/>
   pos:
     lat: -0.0
     lng: 6.54
-  tags: []
+  tags:
+  - 天梯
+  template: city
+- desc: map/locations/descriptions/tunis.md
+  name: 突尼斯城<br/>Tunis
+  pos:
+    lat: -36.8
+    lng: 10.17
+  tags:
+  - 政治中心
+  - 首都
+  template: city
+- desc: map/locations/descriptions/dublin.md
+  name: 都柏林<br/>Dublin
+  pos:
+    lat: -53.34
+    lng: -6.26
+  tags:
+  - 政治中心
+  - 首都
+  template: city
+- desc: map/locations/descriptions/reykjavík.md
+  name: 雷克雅未克<br/>Reykjavík
+  pos:
+    lat: -64.14
+    lng: -21.94
+  tags:
+  - 政治中心
+  - 首都
+  template: city
+- desc: map/locations/descriptions/quebec.md
+  name: 魁北克城<br/>Quebec
+  pos:
+    lat: -46.79
+    lng: -71.23
+  tags:
+  - 政治中心
+  - 首都
+  template: city
+- desc: map/locations/descriptions/montreal.md
+  name: 蒙特利尔<br/>Montreal
+  pos:
+    lat: -45.5
+    lng: -73.58
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/ottawa.md
+  name: 渥太华<br/>Ottawa
+  pos:
+    lat: -45.42
+    lng: -75.7
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/kumasi.md
+  name: 库马西<br/>Kumasi
+  pos:
+    lat: -6.69
+    lng: -1.61
+  tags:
+  - 政治中心
+  - 首都
+  template: city
+- desc: map/locations/descriptions/dakar.md
+  name: 达喀尔<br/>Dakar
+  pos:
+    lat: -14.73
+    lng: -17.43
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/lagos.md
+  name: 拉各斯<br/>Lagos
+  pos:
+    lat: -6.51
+    lng: 3.37
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/ibadan.md
+  name: 伊巴丹<br/>Ibadan
+  pos:
+    lat: -7.38
+    lng: 3.9
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/accra.md
+  name: 阿克拉<br/>Accra
+  pos:
+    lat: -5.59
+    lng: -0.19
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/douala.md
+  name: 杜阿拉<br/>Douala
+  pos:
+    lat: -4.03
+    lng: 9.72
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/kano.md
+  name: 卡诺<br/>Kano
+  pos:
+    lat: -11.99
+    lng: 8.52
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/abuja.md
+  name: 阿布贾<br/>Abuja
+  pos:
+    lat: -9.06
+    lng: 7.46
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/abidjan.md
+  name: 阿比让<br/>Abidjan
+  pos:
+    lat: -5.34
+    lng: -4.01
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/conakry.md
+  name: 科纳克里<br/>Conakry
+  pos:
+    lat: -9.61
+    lng: -13.6
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/bamako.md
+  name: 巴马科<br/>Bamako
+  pos:
+    lat: -12.63
+    lng: -8.0
+  tags:
+  - 经济中心
+  template: city
+- desc: map/locations/descriptions/niamey.md
+  name: 尼亚美<br/>Niamey
+  pos:
+    lat: -13.51
+    lng: 2.11
+  tags:
+  - 经济中心
   template: city
